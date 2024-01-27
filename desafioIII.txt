@@ -1,0 +1,66 @@
+irá sempre aparecer a interface de feedback com opcao de "tive duvidas" se tive duvidas opcao de escrever em que/onde
+essa duvida irá para uma nova seccao da plataforma, tanto alunos como professores podem ajudar.
+Quem teve a duvida terá a opcao de "duvida esclarecida"
+Se a ajuda foi boa formador poderá avaliar e quem ajudou recebe pontos/karma
+Aluno pode criar duvida diretamente na seccao duvidas 
+Duvidas n resolvidas serao tiradas no horario de duvidas 
+Duvidas diarias, quando duvida n tiver sido esclarecida plataforma colocaria essa pessoa/duvida no duvidas diarias do dia seguinte
+O intuito nunca seria colocar respostas completas
+
+Duvidas gerais aulas. Aluno carrega no botao duvida geral
+
+
+Lista de requisitos
+    TODOS
+    Duvidas gerais:
+    -Responder a duvidas
+    -(opcao de pesquisa para evitar criar topico de duvida que já foi respondida)
+    -Ver perguntas por responder e perguntas já respondidas
+
+    Duvidas Diárias:
+    -Ver numero elementos na fila
+
+
+    Admin/Formador
+    Duvidas gerais
+        - criar novo topico para cada linguagem
+         -Responder a duvidas (todos)
+         -Apagar duvidas
+         -avaliar a resposta a dada por um formando (daria pontos a essa pessoa / karma)
+         -Opcao de colocar a duvida como "esclarecida"
+         -Criar topico atraves de "feedback". que apareceria sempre no fim de cada quest/exericio semanal ao escolher "tive duvidas" topico era automaticamente criado, formando poderia escrever pequeno texto
+         -opcao de pesquisa para evitar criar topico de duvida que já foi respondida
+         
+
+    Duvidas Diarias (1st in 1st out)
+        -Terá acesso à lista completa de pessoas que carregaram "Tenho uma dúvida"
+        -Dar "check" quando a duvida foi tirada apagando essa pessoa e passaria para a proxima
+        
+
+Formando 
+    Duvidas gerais:
+    - Criar Tópico de duvida
+    - opcao de escolha do tema (js... react...css...)
+    - Apagar topico criado por si
+    - Opcao de colocar a sua duvida escondida para outros formandos
+    - Dar check ao seu topico quando achar que duvida foi esclarecida
+    - Responder a topicos de duvidas
+        -Criar tópico através de "feedback". que apareceria sempre no fim de cada quest/exericio semanal ao escolher "tive duvidas" tópico era automaticamente criado, formando poderia escrever pequeno texto
+
+
+
+    Duvidas Diarias:
+    -"tenho duvidas" - colocar pequeno comentario(opcional)
+
+
+
+
+
+
+
+
+
+
+
+
+

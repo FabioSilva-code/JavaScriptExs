@@ -1,0 +1,1 @@
+//igual a zero n mas dou reverse final
