@@ -1,4 +1,5 @@
-    function inverteArray(array){
+
+function inverteArray(array){
         function inverteArray(array){
             //duas funcoes uma que inverte uma string outra que faz map com nova essa nova funçao
                 const res = array.map((elemento)=>inverteString(elemento))
