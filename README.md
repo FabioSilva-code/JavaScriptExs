@@ -1,6 +1,6 @@
 
 
-#JavaScript Exercises
+JavaScript Exercises
 ```markdown
 
 Bem-vindo à minha pasta de exercícios de JavaScript! Aqui você encontrará uma coleção de desafios que resolvi ao longo do tempo. Os exercícios abrangem uma variedade de tópicos, incluindo manipulação de arrays, trabalho com classes, desafios diversos, loops, entre outros.
