@@ -1,12 +1,9 @@
+# JavaScript Exercises
 
+Welcome to my JavaScript exercises folder! Here you'll find a collection of challenges I've solved over time. The exercises cover a variety of topics, including array manipulation, working with classes, miscellaneous challenges, loops, and more.
 
-#JavaScript Exercises
-```markdown
+## How to Use
 
-Bem-vindo à minha pasta de exercícios de JavaScript! Aqui você encontrará uma coleção de desafios que resolvi ao longo do tempo. Os exercícios abrangem uma variedade de tópicos, incluindo manipulação de arrays, trabalho com classes, desafios diversos, loops, entre outros.
-
-## Como Usar
-Dentro desta pasta, você verá uma série de arquivos JavaScript, cada um contendo um exercício específico. Fique à vontade para explorar, tentar resolver os exercícios e comparar suas soluções com as que eu desenvolvi.
+Within this folder, you'll see a series of JavaScript files, each containing a specific exercise. Feel free to explore, attempt to solve the exercises, and compare your solutions with the ones I've developed.
 
 Happy Coding!
-```
